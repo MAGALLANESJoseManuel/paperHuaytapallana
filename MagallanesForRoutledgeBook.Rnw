@@ -37,12 +37,12 @@ options(width=60, digits=2)
 \maketitle
 
 \begin{abstract}
-This chapter illustates the use of computer simulations to represent social dynamics in an area with rural and urban population in the central Andes of Peru. This representation allows the building of scenarios to learn some advices as to what may be done to avoid the worst situations. The main technique used is agent-based modeling, which will combine quantitative and qualitative information. The results show possible scenarios of water scarcity leading to drastic migration and social conflict, a situation not yet evident as a public problem. This work provides concrete recommendations this likely and undesired scenario. 
+This chapter illustrates the use of computer simulations to represent social dynamics in an area with rural and urban population in the central Andes of Peru. This representation allows the building of scenarios to learn some advices as to what may be done to avoid the worst situations. The main technique used is agent-based modeling, which will combine quantitative and qualitative information. The results show possible scenarios of water scarcity leading to drastic migration and social conflict, a situation not yet evident as a public problem. This work provides concrete recommendations this likely and undesired scenario. 
 
 
 \end{abstract}
 
-\keywords{key1, key2, key3}
+\keywords{social complexity, agent-based modeling, climate change, conflict, migration.}
 
 \section{Introduction}
 
