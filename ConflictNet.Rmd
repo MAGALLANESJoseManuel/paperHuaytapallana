@@ -1,0 +1,10 @@
+
+
+```{r}
+library(igraph)
+library(rio)
+andesDF=import("andesNet.xlsx")
+andes=igraph::graph_from_data_frame(andesDF)
+plot(andes)
+```
+
