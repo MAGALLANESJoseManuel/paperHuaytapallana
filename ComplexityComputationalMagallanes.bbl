@@ -1,0 +1,256 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{apa/global//global/global}
+  \entry{macy_factors_2002}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MMW}{%
+         family={Macy},
+         familyi={M\bibinitperiod},
+         given={Michael\bibnamedelima W.},
+         giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=WR}{%
+         family={Willer},
+         familyi={W\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \keyw{cellular automata,complexity,emergence,genetic
+  algorithm,self-organization,simulation}
+    \strng{namehash}{MMWWR1}
+    \strng{fullhash}{MMWWR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2002}
+    \field{labeldatesource}{}
+    \verb{doi}
+    \verb 10.1146/annurev.soc.28.110601.141117
+    \endverb
+    \field{number}{1}
+    \field{pages}{143\bibrangedash 166}
+    \field{shorttitle}{{{FROM FACTORS TO ACTORS}}}
+    \field{title}{From {{Factors}} to {{Actors}}: {{Computational Sociology}}
+  and {{Agent-Based Modeling}}}
+    \field{volume}{28}
+    \field{journaltitle}{Annual Review of Sociology}
+    \field{year}{2002}
+  \endentry
+
+  \entry{robinson_water_2023}{online}{}
+    \name{author}{2}{}{%
+      {{hash=RK}{%
+         family={Robinson},
+         familyi={R\bibinitperiod},
+         given={Kali},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=KC}{%
+         family={Klobucista},
+         familyi={K\bibinitperiod},
+         given={Claire},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {Council on Foreign Relations}%
+    }
+    \strng{namehash}{RKKC1}
+    \strng{fullhash}{RKKC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2023}
+    \field{labeldatesource}{}
+    \field{shorttitle}{Water {{Stress}}}
+    \field{title}{Water {{Stress}}: {{A Global Problem That}}’s {{Getting
+  Worse}}}
+    \verb{url}
+    \verb https://www.cfr.org/backgrounder/water-stress-global-problem-thats-ge
+    \verb tting-worse
+    \endverb
+    \field{langid}{english}
+    \verb{file}
+    \verb /Users/JoseManuel/Zotero/storage/UWQC8D4W/water-stress-global-problem
+    \verb -thats-getting-worse.html
+    \endverb
+    \field{day}{03}
+    \field{month}{04}
+    \field{year}{2023}
+    \field{urlday}{16}
+    \field{urlmonth}{05}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{unesco_nature-based_2018}{book}{}
+    \name{editor}{1}{}{%
+      {{hash=U}{%
+         family={{Unesco}},
+         familyi={U\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {UNESCO}%
+    }
+    \strng{namehash}{U1}
+    \strng{fullhash}{U1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{isbn}{978-92-3-100264-9}
+    \field{number}{2018}
+    \field{pagetotal}{139}
+    \field{series}{The {{United Nations}} World Water Development Report}
+    \field{title}{Nature-Based Solutions for Water}
+    \field{langid}{english}
+    \list{location}{1}{%
+      {Paris}%
+    }
+    \field{year}{2018}
+  \endentry
+
+  \entry{singh_losses_2021}{article}{}
+    \name{author}{4}{}{%
+      {{hash=SC}{%
+         family={Singh},
+         familyi={S\bibinitperiod},
+         given={Chandni},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=JG}{%
+         family={Jain},
+         familyi={J\bibinitperiod},
+         given={Garima},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=SV}{%
+         family={Sukhwani},
+         familyi={S\bibinitperiod},
+         given={Vibhas},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Shaw},
+         familyi={S\bibinitperiod},
+         given={Rajib},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SC+1}
+    \strng{fullhash}{SCJGSVSR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \verb{doi}
+    \verb 10.1016/j.cosust.2021.02.006
+    \endverb
+    \field{issn}{18773435}
+    \field{pages}{72\bibrangedash 86}
+    \field{shortjournal}{Current Opinion in Environmental Sustainability}
+    \field{shorttitle}{Losses and Damages Associated with Slow-Onset Events}
+    \field{title}{Losses and Damages Associated with Slow-Onset Events: Urban
+  Drought and Water Insecurity in {{Asia}}}
+    \field{volume}{50}
+    \field{langid}{english}
+    \field{journaltitle}{Current Opinion in Environmental Sustainability}
+    \field{month}{06}
+    \field{year}{2021}
+  \endentry
+
+  \entry{wilensky_introduction_2015}{book}{}
+    \name{author}{2}{}{%
+      {{hash=WU}{%
+         family={Wilensky},
+         familyi={W\bibinitperiod},
+         given={Uri},
+         giveni={U\bibinitperiod},
+      }}%
+      {{hash=RW}{%
+         family={Rand},
+         familyi={R\bibinitperiod},
+         given={William},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {The MIT Press}%
+    }
+    \keyw{Computer simulation,Data processing,Multiagent systems,NetLogo
+  (Computer program language),System analysis}
+    \strng{namehash}{WURW1}
+    \strng{fullhash}{WURW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{isbn}{978-0-262-73189-8}
+    \field{shorttitle}{Introduction to Agent-Based Modeling}
+    \field{title}{Introduction to Agent-Based Modeling: Modeling Natural,
+  Social, and Engineered Complex Systems with {{NetLogo}}}
+    \list{location}{1}{%
+      {Cambridge, Massachusetts}%
+    }
+    \field{year}{2015}
+  \endentry
+
+  \entry{steinbruner_climate_2013}{book}{}
+    \name{author}{3}{}{%
+      {{hash=SJD}{%
+         family={Steinbruner},
+         familyi={S\bibinitperiod},
+         given={John\bibnamedelima D.},
+         giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=SPC}{%
+         family={Stern},
+         familyi={S\bibinitperiod},
+         given={Paul\bibnamedelima C.},
+         giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=HJL}{%
+         family={Husbands},
+         familyi={H\bibinitperiod},
+         given={Jo\bibnamedelima L.},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {National Research Council (U.S.)}%
+    }
+    \keyw{Climatic changes,National security,Political aspects,Risk
+  assessment,Risk management,Social aspects,United States}
+    \strng{namehash}{SJD+1}
+    \strng{fullhash}{SJDSPCHJL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{isbn}{978-0-309-27856-0}
+    \field{pagetotal}{238}
+    \field{shorttitle}{Climate and Social Stress}
+    \field{title}{Climate and Social Stress: Implications for Security
+  Analysis}
+    \list{location}{1}{%
+      {Washington, D.C}%
+    }
+    \field{year}{2013}
+  \endentry
+\enddatalist
+\endinput

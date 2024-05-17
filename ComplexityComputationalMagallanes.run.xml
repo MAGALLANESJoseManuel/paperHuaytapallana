@@ -44,49 +44,46 @@
   <internal package="biblatex" priority="9" active="0">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>MagallanesForRoutledgeBook.aux</file>
-      <file>MagallanesForRoutledgeBook-blx.bib</file>
+      <file>ComplexityComputationalMagallanes.bcf</file>
     </provides>
     <requires type="dynamic">
-      <file>MagallanesForRoutledgeBook.bbl</file>
+      <file>ComplexityComputationalMagallanes.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
+      <file>apa.dbx</file>
       <file>blx-compat.def</file>
-      <file>blx-bibtex.def</file>
       <file>biblatex.def</file>
       <file>standard.bbx</file>
-      <file>numeric.bbx</file>
-      <file>numeric.cbx</file>
+      <file>apa.bbx</file>
+      <file>apa.cbx</file>
       <file>biblatex.cfg</file>
       <file>english.lbx</file>
+      <file>english-apa.lbx</file>
+      <file>american.lbx</file>
+      <file>american-apa.lbx</file>
     </requires>
   </internal>
   <external package="biblatex" priority="5" active="0">
-    <generic>bibtex</generic>
+    <generic>biber</generic>
     <cmdline>
-      <binary>bibtex</binary>
-      <option>-min-crossrefs 2</option>
-      <infile>MagallanesForRoutledgeBook</infile>
+      <binary>biber</binary>
+      <infile>ComplexityComputationalMagallanes</infile>
     </cmdline>
     <input>
-      <file>MagallanesForRoutledgeBook.aux</file>
+      <file>ComplexityComputationalMagallanes.bcf</file>
     </input>
     <output>
-      <file>MagallanesForRoutledgeBook.bbl</file>
+      <file>ComplexityComputationalMagallanes.bbl</file>
     </output>
     <provides type="dynamic">
-      <file>MagallanesForRoutledgeBook.bbl</file>
+      <file>ComplexityComputationalMagallanes.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>MagallanesForRoutledgeBook.aux</file>
-      <file>MagallanesForRoutledgeBook-blx.bib</file>
+      <file>ComplexityComputationalMagallanes.bcf</file>
     </requires>
     <requires type="editable">
-      <file>bibfileold.bib</file>
-    </requires>
-    <requires type="static">
-      <file>biblatex.bst</file>
+      <file>bibfile.bib</file>
     </requires>
   </external>
 </requests>

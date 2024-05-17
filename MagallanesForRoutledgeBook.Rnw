@@ -1,6 +1,7 @@
-\documentclass{article}
+\documentclass[a4paper,doc,11pt,donotrepeattitle,natbib]{apa7}
 \usepackage[a4paper, total={6in, 8in}]{geometry}
-\usepackage[backend=bibtex]{biblatex}
+
+\usepackage[backend=biber,style=apa]{biblatex}
 \addbibresource{bibfileold.bib}
 \usepackage{array}
 \usepackage{caption}
@@ -37,12 +38,12 @@ options(width=60, digits=2)
 \maketitle
 
 \begin{abstract}
-This chapter illustrates the use of computer simulations to represent social dynamics in an area with rural and urban population in the central Andes of Peru. This representation allows the building of scenarios to learn some advices as to what may be done to avoid the worst situations. The main technique used is agent-based modeling, which will combine quantitative and qualitative information. The results show possible scenarios of water scarcity leading to drastic migration and social conflict, a situation not yet evident as a public problem. This work provides concrete recommendations this likely and undesired scenario. 
+This chapter illustates the use of computer simulations to represent social dynamics in an area with rural and urban population in the central Andes of Peru. This representation allows the building of scenarios to learn some advices as to what may be done to avoid the worst situations. The main technique used is agent-based modeling, which will combine quantitative and qualitative information. The results show possible scenarios of water scarcity leading to drastic migration and social conflict, a situation not yet evident as a public problem. This work provides concrete recommendations this likely and undesired scenario. 
 
 
 \end{abstract}
 
-\keywords{social complexity, agent-based modeling, climate change, conflict, migration.}
+\keywords{social complexity, key2, key3}
 
 \section{Introduction}
 
@@ -446,9 +447,6 @@ This model, despite the real data that has been used to feed it, is still more a
 \item \emph{Be careful of easy solutions.} This work has suggested many times the saving of water. This is a decision that needs to be very well planned. To start, a huge reservoir for the area seems to be a good solution, but decision makers have to be aware of the Huaytapallana failure. This failure can cause any time a huge earthquake, and a huge reservoir represents a great potential for disaster. The saving of water will need a lot of work from the political class and the people themselves. From the top down, the infrastructure to save or become more efficient should be built; and the urban and rural settlers have the responsibility to be more efficient using water. Another important way to secure water will be a better management of the ground water, which currently is used without detailed knowledge of its quantity nor quality, and without any recharging policy.
 
 \end{itemize}
-
-
-
 
 
 \printbibliography
