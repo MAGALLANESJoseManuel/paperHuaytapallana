@@ -53,78 +53,6 @@
     \field{year}{2002}
   \endentry
 
-  \entry{robinson_water_2023}{online}{}
-    \name{author}{2}{}{%
-      {{hash=RK}{%
-         family={Robinson},
-         familyi={R\bibinitperiod},
-         given={Kali},
-         giveni={K\bibinitperiod},
-      }}%
-      {{hash=KC}{%
-         family={Klobucista},
-         familyi={K\bibinitperiod},
-         given={Claire},
-         giveni={C\bibinitperiod},
-      }}%
-    }
-    \list{organization}{1}{%
-      {Council on Foreign Relations}%
-    }
-    \strng{namehash}{RKKC1}
-    \strng{fullhash}{RKKC1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{shorttitle}
-    \field{labelyear}{2023}
-    \field{labeldatesource}{}
-    \field{shorttitle}{Water {{Stress}}}
-    \field{title}{Water {{Stress}}: {{A Global Problem That}}’s {{Getting
-  Worse}}}
-    \verb{url}
-    \verb https://www.cfr.org/backgrounder/water-stress-global-problem-thats-ge
-    \verb tting-worse
-    \endverb
-    \field{langid}{english}
-    \verb{file}
-    \verb /Users/JoseManuel/Zotero/storage/UWQC8D4W/water-stress-global-problem
-    \verb -thats-getting-worse.html
-    \endverb
-    \field{day}{03}
-    \field{month}{04}
-    \field{year}{2023}
-    \field{urlday}{16}
-    \field{urlmonth}{05}
-    \field{urlyear}{2024}
-  \endentry
-
-  \entry{unesco_nature-based_2018}{book}{}
-    \name{editor}{1}{}{%
-      {{hash=U}{%
-         family={{Unesco}},
-         familyi={U\bibinitperiod},
-      }}%
-    }
-    \list{publisher}{1}{%
-      {UNESCO}%
-    }
-    \strng{namehash}{U1}
-    \strng{fullhash}{U1}
-    \field{labelnamesource}{editor}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2018}
-    \field{labeldatesource}{}
-    \field{isbn}{978-92-3-100264-9}
-    \field{number}{2018}
-    \field{pagetotal}{139}
-    \field{series}{The {{United Nations}} World Water Development Report}
-    \field{title}{Nature-Based Solutions for Water}
-    \field{langid}{english}
-    \list{location}{1}{%
-      {Paris}%
-    }
-    \field{year}{2018}
-  \endentry
-
   \entry{singh_losses_2021}{article}{}
     \name{author}{4}{}{%
       {{hash=SC}{%
@@ -174,40 +102,728 @@
     \field{year}{2021}
   \endentry
 
-  \entry{wilensky_introduction_2015}{book}{}
-    \name{author}{2}{}{%
-      {{hash=WU}{%
-         family={Wilensky},
-         familyi={W\bibinitperiod},
-         given={Uri},
-         giveni={U\bibinitperiod},
+  \entry{daquino_role_2002}{inproceedings}{}
+    \name{author}{8}{}{%
+      {{hash=DP}{%
+         family={D'Aquino},
+         familyi={D\bibinitperiod},
+         given={Patrick},
+         giveni={P\bibinitperiod},
       }}%
-      {{hash=RW}{%
-         family={Rand},
-         familyi={R\bibinitperiod},
-         given={William},
+      {{hash=BO}{%
+         family={Barreteau},
+         familyi={B\bibinitperiod},
+         given={Olivier},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=EM}{%
+         family={Etienne},
+         familyi={E\bibinitperiod},
+         given={Michel},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BS}{%
+         family={Boisseau},
+         familyi={B\bibinitperiod},
+         given={Stanislas},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=AS}{%
+         family={Aubert},
+         familyi={A\bibinitperiod},
+         given={Sigrid},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=BF}{%
+         family={Bousquet},
+         familyi={B\bibinitperiod},
+         given={François},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=LPC}{%
+         family={Le\bibnamedelima Page},
+         familyi={L\bibinitperiod\bibinitdelim P\bibinitperiod},
+         given={Christophe},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=DW}{%
+         family={Daré},
+         familyi={D\bibinitperiod},
+         given={William's},
          giveni={W\bibinitperiod},
       }}%
     }
     \list{publisher}{1}{%
-      {The MIT Press}%
+      {IEMSS}%
     }
-    \keyw{Computer simulation,Data processing,Multiagent systems,NetLogo
-  (Computer program language),System analysis}
-    \strng{namehash}{WURW1}
-    \strng{fullhash}{WURW1}
+    \strng{namehash}{DP+1}
+    \strng{fullhash}{DPBOEMBSASBFLPCDW1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{shorttitle}
-    \field{labelyear}{2015}
+    \field{labelyear}{2002}
     \field{labeldatesource}{}
-    \field{isbn}{978-0-262-73189-8}
-    \field{shorttitle}{Introduction to Agent-Based Modeling}
-    \field{title}{Introduction to Agent-Based Modeling: Modeling Natural,
-  Social, and Engineered Complex Systems with {{NetLogo}}}
+    \field{booktitle}{Proceedings of the {{International Environmental
+  Modelling}} and {{Software Society Conference}}}
+    \field{eventtitle}{International {{Environmental Modelling}} and {{Software
+  Society Conference}}}
+    \field{pages}{275\bibrangedash 280}
+    \field{shorttitle}{The Role Playing Games in an {{ABM}} Participatory
+  Modeling Process}
+    \field{title}{The Role Playing Games in an {{ABM}} Participatory Modeling
+  Process: {{Outcomes}} from Five Different Experiments Carried out in the Last
+  Five Years}
+    \verb{url}
+    \verb https://agritrop.cirad.fr/544029/
+    \endverb
+    \field{langid}{english}
     \list{location}{1}{%
-      {Cambridge, Massachusetts}%
+      {Lugano, Switzerland}%
     }
-    \field{year}{2015}
+    \verb{file}
+    \verb /Users/JoseManuel/Zotero/storage/D6NIBMB8/544029.html
+    \endverb
+    \field{year}{2002}
+    \field{urlday}{17}
+    \field{urlmonth}{05}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{cioffi-revilla_introduction_2014}{book}{}
+    \name{author}{1}{}{%
+      {{hash=CRCA}{%
+         family={Cioffi-Revilla},
+         familyi={C\bibinithyphendelim R\bibinitperiod},
+         given={Claudio\bibnamedelima A.},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \keyw{Data processing,Mathematical models,Social sciences}
+    \strng{namehash}{CRCA1}
+    \strng{fullhash}{CRCA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{}
+    \field{isbn}{978-1-4471-5660-4}
+    \field{pagetotal}{320}
+    \field{series}{Texts in {{Computer Science}}}
+    \field{shorttitle}{Introduction to Computational Social Science}
+    \field{title}{Introduction to Computational Social Science: Principles and
+  Applications}
+    \list{location}{1}{%
+      {London ; New York}%
+    }
+    \field{year}{2014}
+  \endentry
+
+  \entry{miller_complex_2007}{book}{}
+    \name{author}{2}{}{%
+      {{hash=MJH}{%
+         family={Miller},
+         familyi={M\bibinitperiod},
+         given={John\bibnamedelima H.},
+         giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=PSE}{%
+         family={Page},
+         familyi={P\bibinitperiod},
+         given={Scott\bibnamedelima E.},
+         giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Princeton University Press}%
+    }
+    \keyw{Computermodellen,Mathematical models,Social sciences,Social
+  systems,Sociale relaties}
+    \strng{namehash}{MJHPSE1}
+    \strng{fullhash}{MJHPSE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2007}
+    \field{labeldatesource}{}
+    \field{isbn}{0-691-12702-6}
+    \field{pagetotal}{263}
+    \field{series}{Princeton Studies in Complexity}
+    \field{shorttitle}{Complex Adaptive Systems}
+    \field{title}{Complex Adaptive Systems: An Introduction to Computational
+  Models of Social Life}
+    \list{location}{1}{%
+      {Princeton, N.J}%
+    }
+    \field{year}{2007}
+  \endentry
+
+  \entry{gilbert_simulation_2005}{book}{}
+    \name{author}{2}{}{%
+      {{hash=GGN}{%
+         family={Gilbert},
+         familyi={G\bibinitperiod},
+         given={G.\bibnamedelima Nigel},
+         giveni={G\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=TKG}{%
+         family={Troitzsch},
+         familyi={T\bibinitperiod},
+         given={Klaus\bibnamedelima G.},
+         giveni={K\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Open University Press}%
+    }
+    \keyw{Computer simulation,Mathematical models,Simulation methods,Social
+  interaction,Social sciences}
+    \strng{namehash}{GGNTKG1}
+    \strng{fullhash}{GGNTKG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2005}
+    \field{labeldatesource}{}
+    \field{edition}{2nd ed}
+    \field{isbn}{978-0-335-21600-0}
+    \field{pagetotal}{295}
+    \field{title}{Simulation for the Social Scientist}
+    \list{location}{1}{%
+      {Maidenhead, England ; New York, NY}%
+    }
+    \field{year}{2005}
+  \endentry
+
+  \entry{epstein_growing_1996}{book}{}
+    \name{author}{2}{}{%
+      {{hash=EJM}{%
+         family={Epstein},
+         familyi={E\bibinitperiod},
+         given={Joshua\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=P}{%
+         family={{2050 Project}},
+         familyi={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Brookings Institution Press}%
+    }
+    \keyw{Social sciences}
+    \strng{namehash}{EJMP1}
+    \strng{fullhash}{EJMP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{1996}
+    \field{labeldatesource}{}
+    \field{isbn}{0-262-05053-6}
+    \field{pagetotal}{208}
+    \field{series}{Complex Adaptive Systems}
+    \field{shorttitle}{Growing Artificial Societies}
+    \field{title}{Growing Artificial Societies: Social Science from the Bottom
+  Up}
+    \list{location}{1}{%
+      {Washington, D.C}%
+    }
+    \field{year}{1996}
+    \name{namea}{1}{}{%
+      {{hash=AR}{%
+         family={Axtell},
+         familyi={A\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \field{nameatype}{collaborator}
+  \endentry
+
+  \entry{robinson_water_2023}{online}{}
+    \name{author}{2}{}{%
+      {{hash=RK}{%
+         family={Robinson},
+         familyi={R\bibinitperiod},
+         given={Kali},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=KC}{%
+         family={Klobucista},
+         familyi={K\bibinitperiod},
+         given={Claire},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {Council on Foreign Relations}%
+    }
+    \strng{namehash}{RKKC1}
+    \strng{fullhash}{RKKC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2023}
+    \field{labeldatesource}{}
+    \field{shorttitle}{Water {{Stress}}}
+    \field{title}{Water {{Stress}}: {{A Global Problem That}}’s {{Getting
+  Worse}}}
+    \verb{url}
+    \verb https://www.cfr.org/backgrounder/water-stress-global-problem-thats-ge
+    \verb tting-worse
+    \endverb
+    \field{langid}{english}
+    \verb{file}
+    \verb /Users/JoseManuel/Zotero/storage/UWQC8D4W/water-stress-global-problem
+    \verb -thats-getting-worse.html
+    \endverb
+    \field{day}{03}
+    \field{month}{04}
+    \field{year}{2023}
+    \field{urlday}{16}
+    \field{urlmonth}{05}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{alfarra_nbs_2018}{incollection}{}
+    \name{author}{2}{}{%
+      {{hash=AA}{%
+         family={Alfarra},
+         familyi={A\bibinitperiod},
+         given={Amani},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=TA}{%
+         family={Turton},
+         familyi={T\bibinitperiod},
+         given={Antony},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {UNESCO}%
+    }
+    \strng{namehash}{AATA1}
+    \strng{fullhash}{AATA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{booktitle}{The {{United Nations}} World Water Development Report
+  2018: Nature-Based Solutions for Water}
+    \field{isbn}{978-92-3-100264-9}
+    \field{number}{2018}
+    \field{pages}{37\bibrangedash 50}
+    \field{series}{{{UNESCO World Water Assessment Programme}}}
+    \field{title}{{{NBS}} for {{Managing Water Availability}}}
+    \field{langid}{english}
+    \list{location}{1}{%
+      {Paris}%
+    }
+    \field{year}{2018}
+  \endentry
+
+  \entry{willige_explainer_2023}{report}{}
+    \name{author}{1}{}{%
+      {{hash=WA}{%
+         family={Willige},
+         familyi={W\bibinitperiod},
+         given={Andrea},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WA1}
+    \strng{fullhash}{WA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2023}
+    \field{labeldatesource}{}
+    \field{shorttitle}{Explainer}
+    \field{title}{Explainer: {{What}} Are Tropical Glaciers and Why Are They an
+  Indicator for Climate Change?}
+    \verb{url}
+    \verb https://www.weforum.org/agenda/2023/10/tropical-glacier-climate-chang
+    \verb e-elnino-indonesia/
+    \endverb
+    \field{langid}{english}
+    \list{institution}{1}{%
+      {World Economic Forum}%
+    }
+    \verb{file}
+    \verb /Users/JoseManuel/Zotero/storage/3Y7J4SH9/tropical-glacier-climate-ch
+    \verb ange-elnino-indonesia.html
+    \endverb
+    \field{day}{26}
+    \field{month}{10}
+    \field{year}{2023}
+    \field{urlday}{18}
+    \field{urlmonth}{05}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{bar-tal_intergroup_2011}{book}{}
+    \name{editor}{1}{}{%
+      {{hash=BTD}{%
+         family={Bar-Tal},
+         familyi={B\bibinithyphendelim T\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Psychology Press}%
+    }
+    \keyw{Conflict management,Intergroup relations}
+    \strng{namehash}{BTD1}
+    \strng{fullhash}{BTD1}
+    \field{labelnamesource}{editor}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{}
+    \field{isbn}{978-1-84169-783-3}
+    \field{series}{Frontiers of Social Psychology}
+    \field{shorttitle}{Intergroup Conflicts and Their Resolution}
+    \field{title}{Intergroup Conflicts and Their Resolution: A Social
+  Psychological Perspective}
+    \list{location}{1}{%
+      {New York}%
+    }
+    \field{year}{2011}
+  \endentry
+
+  \entry{crate_anthropology_2009}{book}{}
+    \name{author}{2}{}{%
+      {{hash=CSA}{%
+         family={Crate},
+         familyi={C\bibinitperiod},
+         given={Susan\bibnamedelima Alexandra},
+         giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=NM}{%
+         family={Nuttall},
+         familyi={N\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Left Coast Press}%
+    }
+    \strng{namehash}{CSANM1}
+    \strng{fullhash}{CSANM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2009}
+    \field{labeldatesource}{}
+    \field{isbn}{978-1-59874-333-3}
+    \field{shorttitle}{Anthropology and Climate Change}
+    \field{title}{Anthropology and Climate Change: From Encounters to Actions}
+    \field{langid}{english}
+    \list{location}{1}{%
+      {Walnut Creek, CA}%
+    }
+    \field{year}{2009}
+  \endentry
+
+  \entry{ziervogel_agent-based_2005}{article}{}
+    \name{author}{4}{}{%
+      {{hash=ZG}{%
+         family={Ziervogel},
+         familyi={Z\bibinitperiod},
+         given={Gina},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Bithell},
+         familyi={B\bibinitperiod},
+         given={Mike},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=WR}{%
+         family={Washington},
+         familyi={W\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=DT}{%
+         family={Downing},
+         familyi={D\bibinitperiod},
+         given={Tom},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZG+1}
+    \strng{fullhash}{ZGBMWRDT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2005}
+    \field{labeldatesource}{}
+    \verb{doi}
+    \verb 10.1016/j.agsy.2004.02.009
+    \endverb
+    \field{issn}{0308521X}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 26}
+    \field{shorttitle}{Agent-Based Social Simulation}
+    \field{title}{Agent-Based Social Simulation: A Method for Assessing the
+  Impact of Seasonal Climate Forecast Applications among Smallholder Farmers}
+    \field{volume}{83}
+    \field{langid}{english}
+    \field{journaltitle}{Agricultural Systems}
+    \field{month}{01}
+    \field{year}{2005}
+  \endentry
+
+  \entry{bharwani_multi-agent_2005}{article}{}
+    \name{author}{6}{}{%
+      {{hash=BS}{%
+         family={Bharwani},
+         familyi={B\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Bithell},
+         familyi={B\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=DTE}{%
+         family={Downing},
+         familyi={D\bibinitperiod},
+         given={T.\bibnamedelima E.},
+         giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=NM}{%
+         family={New},
+         familyi={N\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=WR}{%
+         family={Washington},
+         familyi={W\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=ZG}{%
+         family={Ziervogel},
+         familyi={Z\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BS+1}
+    \strng{fullhash}{BSBMDTENMWRZG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2005}
+    \field{labeldatesource}{}
+    \verb{doi}
+    \verb 10.1098/rstb.2005.1742
+    \endverb
+    \field{issn}{0962-8436, 1471-2970}
+    \field{number}{1463}
+    \field{pages}{2183\bibrangedash 2194}
+    \field{title}{Multi-Agent Modelling of Climate Outlooks and Food Security
+  on a Community Garden Scheme in {{Limpopo}}, {{South Africa}}}
+    \field{volume}{360}
+    \field{langid}{english}
+    \field{journaltitle}{Philosophical Transactions of the Royal Society B:
+  Biological Sciences}
+    \field{day}{29}
+    \field{month}{11}
+    \field{year}{2005}
+  \endentry
+
+  \entry{kniveton_agent-based_2011}{article}{}
+    \name{author}{3}{}{%
+      {{hash=KD}{%
+         family={Kniveton},
+         familyi={K\bibinitperiod},
+         given={Dominic},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=SC}{%
+         family={Smith},
+         familyi={S\bibinitperiod},
+         given={Christopher},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=WS}{%
+         family={Wood},
+         familyi={W\bibinitperiod},
+         given={Sharon},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KD+1}
+    \strng{fullhash}{KDSCWS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{}
+    \verb{doi}
+    \verb 10.1016/j.gloenvcha.2011.09.006
+    \endverb
+    \field{issn}{09593780}
+    \field{pages}{S34\bibrangedash S40}
+    \field{title}{Agent-Based Model Simulations of Future Changes in Migration
+  Flows for {{Burkina Faso}}}
+    \field{volume}{21}
+    \field{langid}{english}
+    \verb{file}
+    \verb /Users/JoseManuel/Zotero/storage/JFHZSB2I/burkinafasso.pdf
+    \endverb
+    \field{journaltitle}{Global Environmental Change}
+    \field{month}{12}
+    \field{year}{2011}
+  \endentry
+
+  \entry{hailegiorgis_computational_2013}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=HAB}{%
+         family={Hailegiorgis},
+         familyi={H\bibinitperiod},
+         given={Atesmachew\bibnamedelima Bizuwerk},
+         giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \keyw{Agent-based modeling,Climate change,Coupled human and natural
+  systems,Earth sciences,Ethiopia,Geographic information systems
+  (GIS),Household dynamics,Land acquisition,Social sciences,South Omo}
+    \strng{namehash}{HAB1}
+    \strng{fullhash}{HAB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{pagetotal}{196}
+    \field{title}{Computational Modeling of Climate Change, Large-Scale Land
+  Acquisition, and Household Dynamics in Southern Ethiopia}
+    \verb{url}
+    \verb http://search.proquest.com/docview/1492669016/abstract?accountid=1454
+    \verb 1
+    \endverb
+    \field{langid}{Inglés}
+    \list{location}{1}{%
+      {Ann Arbor, United States}%
+    }
+    \verb{file}
+    \verb /Users/JoseManuel/Zotero/storage/R7TDXQAU/Hailegiorgis - 2013 - Compu
+    \verb tational Modeling of Climate Change, Large-Sc.pdf;/Users/JoseManuel/Z
+    \verb otero/storage/BBDEH3NR/abstract.html
+    \endverb
+    \field{type}{phdthesis}
+    \field{year}{2013}
+    \field{urlday}{01}
+    \field{urlmonth}{09}
+    \field{urlyear}{2014}
+  \endentry
+
+  \entry{hirschman_exit_1970}{book}{}
+    \name{author}{1}{}{%
+      {{hash=HAO}{%
+         family={Hirschman},
+         familyi={H\bibinitperiod},
+         given={Albert\bibnamedelima O.},
+         giveni={A\bibinitperiod\bibinitdelim O\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Harvard University Press}%
+    }
+    \keyw{Dissenters,Loyalty,Organizational sociology}
+    \strng{namehash}{HAO1}
+    \strng{fullhash}{HAO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{1970}
+    \field{labeldatesource}{}
+    \field{isbn}{0-674-27660-4}
+    \field{pagetotal}{162}
+    \field{shorttitle}{Exit, Voice, and Loyalty}
+    \field{title}{Exit, Voice, and Loyalty: Responses to Decline in Firms,
+  Organizations, and States}
+    \list{location}{1}{%
+      {Cambridge, Mass}%
+    }
+    \field{year}{1970}
+  \endentry
+
+  \entry{hendrix_climate_2012}{article}{}
+    \name{author}{2}{}{%
+      {{hash=HCS}{%
+         family={Hendrix},
+         familyi={H\bibinitperiod},
+         given={C.\bibnamedelima S.},
+         giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=SI}{%
+         family={Salehyan},
+         familyi={S\bibinitperiod},
+         given={I.},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HCSSI1}
+    \strng{fullhash}{HCSSI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \verb{doi}
+    \verb 10.1177/0022343311426165
+    \endverb
+    \field{issn}{0022-3433, 1460-3578}
+    \field{number}{1}
+    \field{pages}{35\bibrangedash 50}
+    \field{title}{Climate Change, Rainfall, and Social Conflict in {{Africa}}}
+    \field{volume}{49}
+    \field{langid}{english}
+    \field{journaltitle}{Journal of Peace Research}
+    \field{day}{01}
+    \field{month}{01}
+    \field{year}{2012}
+  \endentry
+
+  \entry{hsiang_quantifying_2013}{article}{}
+    \name{author}{3}{}{%
+      {{hash=HSM}{%
+         family={Hsiang},
+         familyi={H\bibinitperiod},
+         given={S.\bibnamedelima M.},
+         giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Burke},
+         familyi={B\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=ME}{%
+         family={Miguel},
+         familyi={M\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HSM+1}
+    \strng{fullhash}{HSMBMME1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \verb{doi}
+    \verb 10.1126/science.1235367
+    \endverb
+    \field{issn}{0036-8075, 1095-9203}
+    \field{number}{6151}
+    \field{pages}{1235367\bibrangedash 1235367}
+    \field{title}{Quantifying the {{Influence}} of {{Climate}} on {{Human
+  Conflict}}}
+    \field{volume}{341}
+    \field{langid}{english}
+    \field{journaltitle}{Science}
+    \field{day}{13}
+    \field{month}{09}
+    \field{year}{2013}
   \endentry
 
   \entry{steinbruner_climate_2013}{book}{}
@@ -251,6 +867,883 @@
       {Washington, D.C}%
     }
     \field{year}{2013}
+  \endentry
+
+  \entry{piontek_impact_2010}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=PF}{%
+         family={Piontek},
+         familyi={P\bibinitperiod},
+         given={Franziska},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PF1}
+    \strng{fullhash}{PF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{}
+    \field{pagetotal}{96}
+    \field{title}{The {{Impact}} of {{Climate Change}} on {{Conflict}} and
+  {{Cooperation}} in the {{Nile Basin}}}
+    \verb{url}
+    \verb http://www.cairn.info/resume.php?ID_ARTICLE=EUFOR_365_0099
+    \endverb
+    \list{location}{1}{%
+      {Hamburg, Germany}%
+    }
+    \list{institution}{1}{%
+      {{Institute for Peace and Security Studies}}%
+    }
+    \verb{file}
+    \verb /Users/josemagallanes/Documents/tesisGMU/cnflict/nilebasin.pdf
+    \endverb
+    \field{type}{mathesis}
+    \field{year}{2010}
+    \field{urlday}{12}
+    \field{urlmonth}{09}
+    \field{urlyear}{2014}
+  \endentry
+
+  \entry{cioffi-revilla2010}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CRC}{%
+         family={Cioffi-Revilla},
+         familyi={C\bibinithyphendelim R\bibinitperiod},
+         given={Claudio},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \keyw{Agent-Based Modeling Methodology,Computational Social Science,Inner
+  Asia,M2M,Social Complexity,Social Simulation}
+    \strng{namehash}{CRC1}
+    \strng{fullhash}{CRC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{}
+    \field{issn}{1460-7425}
+    \field{number}{1}
+    \field{pages}{7}
+    \field{title}{A {{Methodology}} for {{Complex Social Simulations}}}
+    \verb{url}
+    \verb http://jasss.soc.surrey.ac.uk/13/1/7.html
+    \endverb
+    \field{volume}{13}
+    \field{journaltitle}{Journal of Artificial Societies and Social Simulation}
+    \field{year}{2010}
+  \endentry
+
+  \entry{hailegiorgis_agent_2010}{inproceedings}{}
+    \name{author}{5}{}{%
+      {{hash=HAB}{%
+         family={Hailegiorgis},
+         familyi={H\bibinitperiod},
+         given={Atesmachew\bibnamedelima B.},
+         giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=KWG}{%
+         family={Kennedy},
+         familyi={K\bibinitperiod},
+         given={William\bibnamedelima G.},
+         giveni={W\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=BGC}{%
+         family={Balan},
+         familyi={B\bibinitperiod},
+         given={G.\bibnamedelima C.},
+         giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=BJK}{%
+         family={Bassett},
+         familyi={B\bibinitperiod},
+         given={Jeffrey\bibnamedelima K.},
+         giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=GT}{%
+         family={Gulden},
+         familyi={G\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HAB+1}
+    \strng{fullhash}{HABKWGBGCBJKGT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{}
+    \field{booktitle}{Proceedings of the 2010 {{International Congress}} on
+  {{Environmental Modelling}} and {{Software}}}
+    \field{title}{An Agent Based Model of Climate Change and Conflict among
+  Pastoralists in East {{Africa}}}
+    \verb{url}
+    \verb http://cs.gmu.edu/~eclab/projects/mason/publications/climate10.pdf
+    \endverb
+    \verb{file}
+    \verb /Users/josemagallanes/Documents/tesisGMU/MURI1.pdf
+    \endverb
+    \field{year}{2010}
+    \field{urlday}{12}
+    \field{urlmonth}{09}
+    \field{urlyear}{2014}
+  \endentry
+
+  \entry{kennedy_agent-based_2010}{unpublished}{}
+    \name{author}{7}{}{%
+      {{hash=KWG}{%
+         family={Kennedy},
+         familyi={K\bibinitperiod},
+         given={William\bibnamedelima G.},
+         giveni={W\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=HAB}{%
+         family={Hailegiorgis},
+         familyi={H\bibinitperiod},
+         given={Atesmachew\bibnamedelima B.},
+         giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=RM}{%
+         family={Rouleau},
+         familyi={R\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BJK}{%
+         family={Bassett},
+         familyi={B\bibinitperiod},
+         given={Jeffrey\bibnamedelima K.},
+         giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=CM}{%
+         family={Coletti},
+         familyi={C\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BGC}{%
+         family={Balan},
+         familyi={B\bibinitperiod},
+         given={Gabriel\bibnamedelima C.},
+         giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=GT}{%
+         family={Gulden},
+         familyi={G\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KWG+1}
+    \strng{fullhash}{KWGHABRMBJKCMBGCGT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{}
+    \field{eventtitle}{Behavior {{Representation}} in {{Modeling}} and
+  {{Simulation}}}
+    \field{title}{An {{Agent-Based Model}} of {{Conflict}} in {{East Africa
+  And}} the {{Effect}} of {{Watering Holes}}}
+    \field{venue}{Charleston, SC}
+    \verb{file}
+    \verb /Users/JoseManuel/Zotero/storage/AKHRJE7W/summary.html
+    \endverb
+    \field{type}{Conference}
+    \field{day}{24}
+    \field{month}{03}
+    \field{year}{2010}
+  \endentry
+
+  \entry{carlos_riesgos_2012}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CG}{%
+         family={Carlos},
+         familyi={C\bibinitperiod},
+         given={Guillermo},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=GR}{%
+         family={Grijalva},
+         familyi={G\bibinitperiod},
+         given={Roy},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CGGR1}
+    \strng{fullhash}{CGGR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{number}{1}
+    \field{pages}{15\bibrangedash 26}
+    \field{title}{Riesgos de {{Escasez}} de {{Agua}} En La {{Ciudad}} de
+  {{Huancayo}} al 2030}
+    \field{volume}{2}
+    \verb{file}
+    \verb /Users/josemagallanes/Documents/EVPP650 Modeling/waterScarcity.pdf
+    \endverb
+    \field{journaltitle}{Apuntes de Ciencia \& Sociedad, Universidad
+  Continental}
+    \field{month}{06}
+    \field{year}{2012}
+  \endentry
+
+  \entry{lopez-moreno_recent_2014}{article}{}
+    \name{author}{10}{}{%
+      {{hash=LMJ}{%
+         family={López-Moreno},
+         familyi={L\bibinithyphendelim M\bibinitperiod},
+         given={J.I.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=FS}{%
+         family={Fontaneda},
+         familyi={F\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Bazo},
+         familyi={B\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=RJ}{%
+         family={Revuelto},
+         familyi={R\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=AMC}{%
+         family={Azorin-Molina},
+         familyi={A\bibinithyphendelim M\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=VGB}{%
+         family={Valero-Garcés},
+         familyi={V\bibinithyphendelim G\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=MTE}{%
+         family={Morán-Tejeda},
+         familyi={M\bibinithyphendelim T\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=VSS}{%
+         family={Vicente-Serrano},
+         familyi={V\bibinithyphendelim S\bibinitperiod},
+         given={S.M.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=ZR}{%
+         family={Zubieta},
+         familyi={Z\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=ACJ}{%
+         family={Alejo-Cochachín},
+         familyi={A\bibinithyphendelim C\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LMJ+1}
+    \strng{fullhash}{LMJFSBJRJAMCVGBMTEVSSZRACJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{}
+    \verb{doi}
+    \verb 10.1016/j.gloplacha.2013.10.010
+    \endverb
+    \field{issn}{09218181}
+    \field{pages}{1\bibrangedash 11}
+    \field{title}{Recent Glacier Retreat and Climate Trends in {{Cordillera
+  Huaytapallana}}, {{Peru}}}
+    \field{volume}{112}
+    \verb{file}
+    \verb /Users/JoseManuel/Zotero/storage/D4P7AXBJ/huaytapallana.pdf
+    \endverb
+    \field{journaltitle}{Global and Planetary Change}
+    \field{month}{01}
+    \field{year}{2014}
+  \endentry
+
+  \entry{haller_huancayo_2013}{article}{}
+    \name{author}{2}{}{%
+      {{hash=HA}{%
+         family={Haller},
+         familyi={H\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Borsdorf},
+         familyi={B\bibinitperiod},
+         given={Axel},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HABA1}
+    \strng{fullhash}{HABA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \verb{doi}
+    \verb 10.1016/j.cities.2012.04.004
+    \endverb
+    \field{issn}{02642751}
+    \field{pages}{553\bibrangedash 562}
+    \field{title}{Huancayo {{Metropolitano}}}
+    \field{volume}{31}
+    \verb{file}
+    \verb /Users/JoseManuel/Zotero/storage/ITZIQWSR/Haller&Borsdorf2012.pdf
+    \endverb
+    \field{journaltitle}{Cities}
+    \field{month}{04}
+    \field{year}{2013}
+  \endentry
+
+  \entry{Ho2012}{report}{}
+    \name{author}{2}{}{%
+      {{hash=HR}{%
+         family={Ho},
+         familyi={H\bibinitperiod},
+         given={Raul},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Milan},
+         familyi={M\bibinitperiod},
+         given={Andrea},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HRMA1}
+    \strng{fullhash}{HRMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{number}{5}
+    \field{shorttitle}{" {{Where}} the {{Rain Falls}}" {{Project}}. {{Case}}
+  Study}
+    \field{title}{“ {{Where}} the {{Rain Falls}}” {{Project}}. {{Results}}
+  from {{Huancayo Province}}, {{Junín Region}}.}
+    \verb{url}
+    \verb http://d-nb.info/102954221X/34
+    \endverb
+    \list{location}{1}{%
+      {Germany}%
+    }
+    \list{institution}{1}{%
+      {United Nations University}%
+    }
+    \verb{file}
+    \verb /Users/JoseManuel/Zotero/storage/VASRHJNB/Report No. 5_Peru.pdf
+    \endverb
+    \field{type}{Case Study}
+    \field{year}{2012}
+    \field{urlday}{24}
+    \field{urlmonth}{04}
+    \field{urlyear}{2014}
+  \endentry
+
+  \entry{haller_vivid_2012}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HA}{%
+         family={Haller},
+         familyi={H\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HA1}
+    \strng{fullhash}{HA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \verb{doi}
+    \verb 10.1016/j.apgeog.2012.09.009
+    \endverb
+    \field{issn}{01436228}
+    \field{number}{1-2}
+    \field{pages}{439\bibrangedash 447}
+    \field{shorttitle}{Vivid Valleys, Pallid Peaks?}
+    \field{title}{Vivid Valleys, Pallid Peaks? {{Hypsometric}} Variations and
+  Rural–Urban Land Change in the {{Central Peruvian Andes}}}
+    \field{volume}{35}
+    \verb{file}
+    \verb /Users/JoseManuel/Zotero/storage/72SHMJEK/valley MantaroHaller.pdf
+    \endverb
+    \field{journaltitle}{Applied Geography}
+    \field{month}{11}
+    \field{year}{2012}
+  \endentry
+
+  \entry{maslow_motivation_1987}{book}{}
+    \name{author}{2}{}{%
+      {{hash=MAH}{%
+         family={Maslow},
+         familyi={M\bibinitperiod},
+         given={Abraham\bibnamedelima H.},
+         giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=FR}{%
+         family={Frager},
+         familyi={F\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{Harper and Row}}%
+    }
+    \keyw{Motivation (Psychology),Self-actualization (Psychology)}
+    \strng{namehash}{MAHFR1}
+    \strng{fullhash}{MAHFR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1987}
+    \field{labeldatesource}{}
+    \field{edition}{3rd ed}
+    \field{isbn}{0-06-041987-3}
+    \field{pagetotal}{293}
+    \field{title}{Motivation and Personality}
+    \list{location}{1}{%
+      {New York}%
+    }
+    \field{year}{1987}
+  \endentry
+
+  \entry{watkins_understanding_2008}{report}{}
+    \name{author}{5}{}{%
+      {{hash=WJH}{%
+         family={Watkins},
+         familyi={W\bibinitperiod},
+         given={Jennifer\bibnamedelima H.},
+         giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=MEP}{%
+         family={MacKerrow},
+         familyi={M\bibinitperiod},
+         given={Edward\bibnamedelima P.},
+         giveni={E\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=PPG}{%
+         family={Patelli},
+         familyi={P\bibinitperiod},
+         given={Paolo\bibnamedelima G.},
+         giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=EAS}{%
+         family={Eberhard},
+         familyi={E\bibinitperiod},
+         given={A.\bibnamedelima S.},
+         giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=SSG}{%
+         family={Stradling},
+         familyi={S\bibinitperiod},
+         given={Seth\bibnamedelima G.},
+         giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WJH+1}
+    \strng{fullhash}{WJHMEPPPGEASSSG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{}
+    \field{title}{Understanding {{Islamist}} Political Violence through
+  Computational Social Simulation}
+    \verb{url}
+    \verb http://permalink.lanl.gov/object/tr?what=info:lanl-repo/lareport/LA-U
+    \verb R-08-05107
+    \endverb
+    \list{institution}{1}{%
+      {Los Alamos National Laboratory (LANL)}%
+    }
+    \verb{file}
+    \verb /Users/josemagallanes/Documents/tesisGMU/nps49-071212-26.pdf
+    \endverb
+    \field{year}{2008}
+    \field{urlday}{21}
+    \field{urlmonth}{05}
+    \field{urlyear}{2015}
+  \endentry
+
+  \entry{rose_lesson-drawing_1993}{book}{}
+    \name{author}{1}{}{%
+      {{hash=RR}{%
+         family={Rose},
+         familyi={R\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Chatham House Publishers}%
+    }
+    \keyw{Policy sciences}
+    \strng{namehash}{RR1}
+    \strng{fullhash}{RR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{1993}
+    \field{labeldatesource}{}
+    \field{isbn}{0-934540-32-2}
+    \field{pagetotal}{176}
+    \field{shorttitle}{Lesson-Drawing in Public Policy}
+    \field{title}{Lesson-Drawing in Public Policy: A Guide to Learning across
+  Time and Space}
+    \list{location}{1}{%
+      {Chatham, N.J}%
+    }
+    \field{year}{1993}
+  \endentry
+
+  \entry{torjman_what_2005}{book}{}
+    \name{author}{1}{}{%
+      {{hash=TS}{%
+         family={Torjman},
+         familyi={T\bibinitperiod},
+         given={Sherri},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Caledon Institute of Social Policy}%
+    }
+    \strng{namehash}{TS1}
+    \strng{fullhash}{TS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2005}
+    \field{labeldatesource}{}
+    \field{isbn}{1-55382-142-4 978-1-55382-142-7}
+    \field{title}{What Is Policy?}
+    \verb{url}
+    \verb http://www.deslibris.ca/ID/202308
+    \endverb
+    \field{langid}{english}
+    \list{location}{1}{%
+      {Ottawa}%
+    }
+    \field{year}{2005}
+    \field{urlday}{11}
+    \field{urlmonth}{06}
+    \field{urlyear}{2015}
+  \endentry
+
+  \entry{bazerman_predictable_2004}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BMH}{%
+         family={Bazerman},
+         familyi={B\bibinitperiod},
+         given={Max\bibnamedelima H.},
+         giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Harvard Business School Press}%
+    }
+    \keyw{Emergency management}
+    \strng{namehash}{BMH1}
+    \strng{fullhash}{BMH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2004}
+    \field{labeldatesource}{}
+    \field{isbn}{1-59139-178-4}
+    \field{pagetotal}{317}
+    \field{series}{Leadership for the Common Good}
+    \field{shorttitle}{Predictable Surprises}
+    \field{title}{Predictable Surprises: The Disasters You Should Have Seen
+  Coming, and How to Prevent Them}
+    \list{location}{1}{%
+      {Boston}%
+    }
+    \field{year}{2004}
+    \name{namea}{1}{}{%
+      {{hash=WM}{%
+         family={Watkins},
+         familyi={W\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \field{nameatype}{collaborator}
+  \endentry
+
+  \entry{heifetz_leadership_2002}{book}{}
+    \name{author}{2}{}{%
+      {{hash=HRA}{%
+         family={Heifetz},
+         familyi={H\bibinitperiod},
+         given={R.\bibnamedelima A.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=LM}{%
+         family={Linsky},
+         familyi={L\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Harvard Business School Press}%
+    }
+    \strng{namehash}{HRALM1}
+    \strng{fullhash}{HRALM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2002}
+    \field{labeldatesource}{}
+    \field{isbn}{978-1-57851-437-3}
+    \field{title}{Leadership on the {{Line}}: {{Staying Alive Through}} the
+  {{Dangers}} of {{Leading}}}
+    \verb{url}
+    \verb http://books.google.com/books?id=c3mYE7jNvn0C
+    \endverb
+    \field{year}{2002}
+  \endentry
+
+  \entry{wilensky_introduction_2015}{book}{}
+    \name{author}{2}{}{%
+      {{hash=WU}{%
+         family={Wilensky},
+         familyi={W\bibinitperiod},
+         given={Uri},
+         giveni={U\bibinitperiod},
+      }}%
+      {{hash=RW}{%
+         family={Rand},
+         familyi={R\bibinitperiod},
+         given={William},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {The MIT Press}%
+    }
+    \keyw{Computer simulation,Data processing,Multiagent systems,NetLogo
+  (Computer program language),System analysis}
+    \strng{namehash}{WURW1}
+    \strng{fullhash}{WURW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{isbn}{978-0-262-73189-8}
+    \field{shorttitle}{Introduction to Agent-Based Modeling}
+    \field{title}{Introduction to Agent-Based Modeling: Modeling Natural,
+  Social, and Engineered Complex Systems with {{NetLogo}}}
+    \list{location}{1}{%
+      {Cambridge, Massachusetts}%
+    }
+    \field{year}{2015}
+  \endentry
+
+  \entry{luke_mason_2015}{software}{}
+    \name{author}{4}{}{%
+      {{hash=LS}{%
+         family={Luke},
+         familyi={L\bibinitperiod},
+         given={Sean},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=CG}{%
+         family={Catalin},
+         familyi={C\bibinitperiod},
+         given={Gabriel},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=SK}{%
+         family={Sullivan},
+         familyi={S\bibinitperiod},
+         given={Keith},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=PL}{%
+         family={Panait},
+         familyi={P\bibinitperiod},
+         given={Liviu},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{organization}{2}{%
+      {The Evolutionary Computation Laboratory}%
+      {TheCenter for Social Complexity at George Mason University}%
+    }
+    \strng{namehash}{LS+1}
+    \strng{fullhash}{LSCGSKPL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{shorttitle}{{{MASON}}}
+    \field{title}{{{MASON}} - {{Multi Agent Simulator Of Neighborhoods}}}
+    \verb{url}
+    \verb https://cs.gmu.edu/~eclab/projects/mason/
+    \endverb
+    \field{version}{19}
+    \field{year}{2015}
+  \endentry
+
+  \entry{north_complex_2013}{article}{}
+    \name{author}{7}{}{%
+      {{hash=NMJ}{%
+         family={North},
+         familyi={N\bibinitperiod},
+         given={Michael\bibnamedelima J},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=CNT}{%
+         family={Collier},
+         familyi={C\bibinitperiod},
+         given={Nicholson\bibnamedelima T},
+         giveni={N\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=OJ}{%
+         family={Ozik},
+         familyi={O\bibinitperiod},
+         given={Jonathan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=TER}{%
+         family={Tatara},
+         familyi={T\bibinitperiod},
+         given={Eric\bibnamedelima R},
+         giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=MCM}{%
+         family={Macal},
+         familyi={M\bibinitperiod},
+         given={Charles\bibnamedelima M},
+         giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Bragen},
+         familyi={B\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SP}{%
+         family={Sydelko},
+         familyi={S\bibinitperiod},
+         given={Pam},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NMJ+1}
+    \strng{fullhash}{NMJCNTOJTERMCMBMSP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \verb{doi}
+    \verb 10.1186/2194-3206-1-3
+    \endverb
+    \field{issn}{2194-3206}
+    \field{number}{1}
+    \field{pages}{3}
+    \field{shortjournal}{Complex Adapt Syst Model}
+    \field{title}{Complex Adaptive Systems Modeling with {{Repast Simphony}}}
+    \field{volume}{1}
+    \field{langid}{english}
+    \verb{file}
+    \verb /Users/JoseManuel/Zotero/storage/3JT4PQSF/North et al. - 2013 - Compl
+    \verb ex adaptive systems modeling with Repast Simp.pdf
+    \endverb
+    \field{journaltitle}{Complex Adaptive Systems Modeling}
+    \field{month}{12}
+    \field{year}{2013}
+  \endentry
+
+  \entry{taillandier_building_2019}{article}{}
+    \name{author}{8}{}{%
+      {{hash=TP}{%
+         family={Taillandier},
+         familyi={T\bibinitperiod},
+         given={Patrick},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=GB}{%
+         family={Gaudou},
+         familyi={G\bibinitperiod},
+         given={Benoit},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=GA}{%
+         family={Grignard},
+         familyi={G\bibinitperiod},
+         given={Arnaud},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=HQN}{%
+         family={Huynh},
+         familyi={H\bibinitperiod},
+         given={Quang-Nghi},
+         giveni={Q\bibinithyphendelim N\bibinitperiod},
+      }}%
+      {{hash=MN}{%
+         family={Marilleau},
+         familyi={M\bibinitperiod},
+         given={Nicolas},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=CP}{%
+         family={Caillou},
+         familyi={C\bibinitperiod},
+         given={Philippe},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=PD}{%
+         family={Philippon},
+         familyi={P\bibinitperiod},
+         given={Damien},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=DA}{%
+         family={Drogoul},
+         familyi={D\bibinitperiod},
+         given={Alexis},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TP+1}
+    \strng{fullhash}{TPGBGAHQNMNCPPDDA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \verb{doi}
+    \verb 10.1007/s10707-018-00339-6
+    \endverb
+    \field{issn}{1384-6175, 1573-7624}
+    \field{number}{2}
+    \field{pages}{299\bibrangedash 322}
+    \field{shortjournal}{Geoinformatica}
+    \field{title}{Building, Composing and Experimenting Complex Spatial Models
+  with the {{GAMA}} Platform}
+    \field{volume}{23}
+    \field{langid}{english}
+    \verb{file}
+    \verb /Users/JoseManuel/Zotero/storage/IVMN48EQ/Taillandier et al. - 2019 -
+    \verb  Building, composing and experimenting complex spat.pdf
+    \endverb
+    \field{journaltitle}{GeoInformatica}
+    \field{month}{04}
+    \field{year}{2019}
   \endentry
 \enddatalist
 \endinput
